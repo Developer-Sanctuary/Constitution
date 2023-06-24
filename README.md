@@ -1,11 +1,10 @@
-
 # The Constitution of The Republic of Developer Sanctuary
 
  As modified up to Thursday, June 19 2023
 
 
 
-### Preamble
+## Preamble
 
 We, the people of Developer Sanctuary, toform a more perfect united nation, establish justice, ensure domestictranquility, provide for the common defense, promote the general welfare, andsecure the blessings of liberty to ourselves and our posterity, do ordain andestablish this Constitution for Developer Sanctuary. 
 
@@ -15,7 +14,7 @@ Future editions of this document, whichwill provide an updated version of the Co
 
 ---
 
-### Article I
+## Article I
 
 ##### Section I: Official Naming
 
@@ -43,7 +42,7 @@ Future editions of this document, whichwill provide an updated version of the Co
 
 ---
 
-### Article II
+## Article II
 
 ##### Section I: Supreme Judges
 
@@ -73,7 +72,7 @@ Future editions of this document, whichwill provide an updated version of the Co
 
 11. Deletion of a project channel without the consent of the project owner, even if they have left the server, is illegal and can lead to permanent suspension, imprisonment or impeachment of the Minister of Development or the responsible government official.
 
-12.   Deletion of "protected" channels and roles is considered to be a serious offence and can lead to impeachment if it is carried out by a government official.
+12. Deletion of "protected" channels and roles is considered to be a serious offence and can lead to impeachment if it is carried out by a government official.
 * The channels include all server logging channels, the general chat and #meta channels.
 
 * The roles include some historic roles (such as the E role, "THANOS" and "RAGE") and the "Supreme Judges" role.
@@ -88,7 +87,7 @@ Future editions of this document, whichwill provide an updated version of the Co
 
 --- 
 
-### Article III
+## Article III
 
 ##### Section I: Political System of Governance
 
@@ -137,4 +136,19 @@ The political system of governance which defines members of the body that make u
 3. A minister’s term is 2 months long and ends as soon as the ruling government goes out of power. They can be replaced with another minister by the PM who shall do the duties for the remaining term.
 
 4. Following are the responsibilities of the Federal Minsters:
-- 
+- **The Minister of Justice** presides over the the Supreme Judges, is responsible for maintaining the National System of Rules (NSR) and keeping Courts as neutral and free as possible.
+- **The Interior Minister** has the responsibility of informing the public through announcements, managing the system of "Direct Democracy", and assuming the duties of the PM in their absence.
+- **The Minister of Culture** has full controll over "General Square" and is responsible for keeping the place clean and welcoming. It also has responsibility to hold events that interest the public.
+- **The Minister of Development** has full control over the Developer Oasis region and has the responsibility to manage projects, help the project owners, and archive the project channels in case the owner leaves or requests this action.
+- **The Minister of Design** is responsible for the official branding and management of all the official design-related activities in Developer Sanctuary.
+5. A Federal Minister has indefinite terms and upon resignment of a Federal Minister, candidates are nominated by the Head of State or a PM and voted in by the people through a public vote with a 2/3 majority. 
+
+--- 
+
+## Article IV
+
+##### Section I: The Parliament
+
+1. The Parliament is the legislative (law-making) body of the government. It consists of 16 elected representatives and a Speaker of Parliament.
+
+
