@@ -150,5 +150,50 @@ The political system of governance which defines members of the body that make u
 ##### Section I: The Parliament
 
 1. The Parliament is the legislative (law-making) body of the government. It consists of 16 elected representatives and a Speaker of Parliament.
+2. At least 9 out of 16 seats are required to form a government. The seats shall be allotted by using the number of votes in the general election through the D'Hondt method.
+3. The Members of Parliament are appointed by the head of the party, thats has won seats in the Parliament as explained above.
+4. In case of a hung Parliament, coalition between the parties and the independent candidates is allowed to achieve a majority and form a legitimate government.
+5. There shall be a weekly session of Parliament, but emergency sessions can also be called by the Speaker of Parliament.
+6. The term of a Parliament is 3 months long, and the same applies to all Members of Parliament and the Speaker of Parliament.
+
+##### Section II: The Speaker of the Parliament
+
+1. The Speaker of Parliament has full control over the parliament. Even though it is appointed by the ruling party, it must remain neutral.
+
+2. The Speaker of the Parliament can hold sessions, dismiss sessions, block a ruling for up to 7 days, moderate the channel, oversee the voting procedure, and can only vote if the number of votes are equally divided.
+
+3. A ruling made by the Speaker of the Parliament cannot be overruled or reversed by the Supreme Judges or the Court.
+
+##### Section III: The Members of the Parliament
+
+1. The Members of the Parliament (or MoP in short) have the legislative powers.
+
+2. These powers include: Suggesting amendments to the Constitution, arguing about the future or current problems faced by Developer Sanctuary, withdrawing confidence from the President, Prime Minister or the Speaker of the Parliament and approving the suggestions by the people.
+
+3. To pass a suggestion, amendment, or a bill, at least two-thirds (2/3) majority of supporting votes are required to pass it to the executive body where the Head of State makes the final decision
+
+4. To block a suggestion by the public, 2/3 majority of votes are required against it. Otherwise, the suggestion will be approved and get implemented.
+
+##### Section IV: No Confidence Motion
+
+1. A motion of no confidence is a statement or vote about whether a person in a position of President, PM or the Speaker of Parliament is still deemed fit to hold that position.
+
+2. To submit a request for a no confidence vote, the Parliament must pass it with 2/3 majority. If the bill is passed, then the Speaker of the Parliament must hold a parliamentary vote with-in the next 7 days.
+
+3. To oust an official out of power, 10 votes out of 16 are required. After that, one candidate will be nominated by both the government and the opposition for the position of the ousted official.
+
+4. A parliamentary vote will then be conducted by the Speaker after which the elected candidate will hold the position which was previously held by the ousted official.
+
+5. If the President is ousted, then the Vice President will take control until the next President is elected through a parliamentary vote.
+
+##### Section V: Dissolution of the Parliament
+
+1. If the ruling party has a majority in the Parliament, then the PM can request the Head of State to dissolve the Parliament and call for an early election within 7 days.
+
+2. An interim government will be set up for the interval of 7 days to prepare for an election, it will consist of the Head of State and the former PM.
+
+##### Section VI: Direct Democracy
+
+1. 
 
 
