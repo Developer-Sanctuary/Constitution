@@ -194,6 +194,22 @@ The political system of governance which defines members of the body that make u
 
 ##### Section VI: Direct Democracy
 
-1. 
+1. The legislative powers are also shared with the populace of Developer Sanctuary, thanks to Direct Democracy.
+
+2. Direct democracy ensures that anyone has the right to suggest and vote on policy initiatives through the official “suggestions” system, to the extent that the individual does not abuse the system, in which they can be barred upon using it.
+
+3. All policy initiatives are first sent to the Parliament where a vote is held as explained in Section III (d) of this Article. This is done to prevent the policies which are either not implementable or violate the Constitution.
+
+4. After that it is sent to the public voting. If approved by the public, the President shall have to approve or deny that policy and if approved by the President, the PM has the responsibility to either implement it or request a Federal Minister to implement it.
+
+##### Section VII: Voting System
+
+1. A vote is a method for a decision to be implemented or not. It is conducted through the Direct Democracy Policy Initiative System or public announcement channel.
+
+2. All votes must not be tampered by the government or any voters. All voting interference should be reported to Supreme Judges to determine whether it constitutes a violation and to conduct procedures detailed in Article VI of this document.
+
+3. Voters must have either an option to decide on implementation, or multiple options with at least one option to not choose from any of the options.
+
+4. Anyone can vote including officials in the Government if multiple options are not voted unless specified otherwise.
 
 
