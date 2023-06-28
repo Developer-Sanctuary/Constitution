@@ -1,6 +1,6 @@
 # The Constitution of The Republic of Developer Sanctuary
 
- As modified up to Thursday, June 19 2023
+ As modified up to Wednesday, June 28th, 2023
 
 
 
