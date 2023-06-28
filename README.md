@@ -30,7 +30,7 @@ All past revisions to the Constitution will be included into future versions of 
 
 ##### Section III: Amendments
 
-5. Any amendments to the constitution suggested by the people will berequired to go through a vote with a 66% supporting majority constituting of atleast 10 unique voters. If approved, it will be sent to the parliament whereanother vote will be held.
+5. Any amendments to the constitution suggested by the people will be required to go through a vote with a 66% supporting majority constituting of atleast 10 unique voters. If approved, it will be sent to the parliament where another vote will be held.
 
 6. To approve an amendment, at least 2/3 supporting majority will berequired in the parliament, otherwise the suggestion will be discarded.
 
@@ -292,5 +292,9 @@ The political system of governance which defines members of the body that make u
 ---
 
 ## Amendments
+
+##### Enforcement of this document as the Constitution of Developer Sanctuary
+
+Wednesday, June 28th, 2023 by AstroX809 (United Sanctuary Party) #1865
 
 ##### 
