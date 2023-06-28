@@ -146,13 +146,13 @@ The political system of governance which defines members of the body that make u
 
 1. The Election Inspection Committee (EIC), a body independent of the government, is in charge of examining general elections to ensure the validity of the results.
 
-2. The committee is tasked to find any tactics that might've been used by candidates to manipulate the public vote. 
+2. The committee is tasked with finding any tactics that might have been used by candidates to manipulate the public vote like: propaganda, compulsion, and manipulating the public opinion by controlling the media.
 
-3. The committee consists of at least 4 Members. The members of the committee are appointed by the Supreme Judges.
+3. The committee consists of 4 Members. The members of the committee must be appointed by the Supreme Judges.
 
 4. The members of the committee must not be affiliated with any political party, thus being politically neutral. 
 
-5. 
+5. In the case of tangible evidence of the use of manipulative tactics, the supreme judges will evaluate the evidence and determine whether or not to disqualify the candidate and restart the election.
 
 --- 
 
@@ -245,7 +245,7 @@ The political system of governance which defines members of the body that make u
 
 1. Elections must be free and fair and should take place on the 17th, unless stated otherwise in certain scenarios specified in other sections of this document.
 
-2. Elections can be conducted in any method if there is an independent observer to ensure no election interference from the government in power or any voters.
+2. Elections can be conducted in any method if there is an independent observer (Go to Article III Section VI) to ensure no election interference from the government in power or any voters.
 
 3. Election interference can include voting multiple times, ballot stuffing, deleting votes, changing votes, voting with alternative accounts, and pressurising individuals.
 
@@ -257,11 +257,13 @@ The political system of governance which defines members of the body that make u
 
 ##### Section III: Preparation of Election
 
-1. The preparation of for the election must begin on the 5th of second month of the term with party registration and a channel for candidates to kick off their campaigns.
+1. The preparation of for the election must begin on the 5th of third month of the term with party registration and a channel for candidates to kick off their campaigns.
 
 2. Party registration must be opened for at least two days and no other party can register after the deadline. A registered party can drop out of election on their own will.
 
 3. A special channel must be opened on the 15th for the public to discuss the election and other related topics.
+
+4. The Election Inspection Committee (EIC) must be formed on the 7th of the third month of the term (Go to Article III Section VI).
 
 ---
 
