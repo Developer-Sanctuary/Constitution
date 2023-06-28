@@ -142,6 +142,18 @@ The political system of governance which defines members of the body that make u
 - **The Minister of Development** has full control over the Developer Oasis region and has the responsibility to manage projects, help the project owners, and archive the project channels in case the owner leaves or requests this action.
 - **The Minister of Design** is responsible for the official branding and management of all the official design-related activities in Developer Sanctuary. 
 
+##### Section VI: Election Inspection Committee (EIC)
+
+1. The Election Inspection Committee (EIC), a body independent of the government, is in charge of examining general elections to ensure the validity of the results.
+
+2. The committee is tasked to find any tactics that might've been used by candidates to manipulate the public vote. 
+
+3. The committee consists of at least 4 Members. The members of the committee are appointed by the Supreme Judges.
+
+4. The members of the committee must not be affiliated with any political party, thus being politically neutral. 
+
+5. 
+
 --- 
 
 ## Article IV
