@@ -6,11 +6,11 @@
 
 ## Preamble
 
-We, the people of Developer Sanctuary, toform a more perfect united nation, establish justice, ensure domestictranquility, provide for the common defense, promote the general welfare, andsecure the blessings of liberty to ourselves and our posterity, do ordain andestablish this Constitution for Developer Sanctuary. 
+We, the people of Developer Sanctuary, do ordain and establish this Constitution for Developer Sanctuary in order to form an exceedingly perfect united nation, establish justice, ensure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity.
 
-The people of Developer Sanctuary passedthe Constitution on Monday, January 10th 2022 through a public vote. The firstedition of this document was adopted as the Constitution of Developer Sanctuaryafter the dissolution of the last Constitution.
+The people of Developer Sanctuary approved the Constitution in a public referendum on Wednesday, June 28th, 2023. Following the dissolution of the previous Constitution, the first edition of this document was accepted as the Constitution of Developer Sanctuary.
 
-Future editions of this document, whichwill provide an updated version of the Constitution, will incorporate all theprevious amendments made in it.
+All past revisions to the Constitution will be included into future versions of this text, which will give an updated version of the Constitution.
 
 ---
 
@@ -24,7 +24,7 @@ Future editions of this document, whichwill provide an updated version of the Co
 
 ##### Section II: Rights of Individuals
 
-3. All citizens, residents, expats, entities, and people within DeveloperSanctuary have the right to equally access to all services without regard to color,ancestry, culture, age, ethnicity, species, gender identity or expression,nationality, race, religions, sex, sexual orientation, genetic information,marital status, medical conditions, physical or mental disability, minoritystatus, political affiliation, and criminal background. Discrimination based onthese grounds constitutes a violation.
+3. All citizens, residents, expats, entities, and people within Developer Sanctuary have the right to equally access to all services without regard to color,ancestry, culture, age, ethnicity, species, gender identity or expression,nationality, race, religions, sex, sexual orientation, genetic information,marital status, medical conditions, physical or mental disability, minoritystatus, political affiliation, and criminal background. Discrimination based onthese grounds constitutes a violation.
 
 4. Freedom of assembly, association, speech, inclusiveness, equality,citizenship, consent of governed, voting rights, liberty, minority rights,right to life, movement, expression, information, thought, religion, rights toprivacy and independent media are all constitutionally guaranteed rights toevery individual within Developer Sanctuary without retaliation or censorshipto the extent that the freedom does not affect other’s rights to exercisetheir own freedoms, harm others or harm national security.
 
