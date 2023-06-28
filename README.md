@@ -133,15 +133,14 @@ The political system of governance which defines members of the body that make u
 
 2. The Ministers have the right to vote, speak and argue in the Parliament like any other Member of Parliament.
 
-3. A minister’s term is 2 months long and ends as soon as the ruling government goes out of power. They can be replaced with another minister by the PM who shall do the duties for the remaining term.
+3. A Federal Minister has indefinite terms, and upon the resignation or the removal of a minister, candidates are nominated by the Prime Minister and elected by a public vote with a 2/3 majority.
 
 4. Following are the responsibilities of the Federal Minsters:
 - **The Minister of Justice** presides over the the Supreme Judges, is responsible for maintaining the National System of Rules (NSR) and keeping Courts as neutral and free as possible.
 - **The Interior Minister** has the responsibility of informing the public through announcements, managing the system of "Direct Democracy", and assuming the duties of the PM in their absence.
 - **The Minister of Culture** has full controll over "General Square" and is responsible for keeping the place clean and welcoming. It also has responsibility to hold events that interest the public.
 - **The Minister of Development** has full control over the Developer Oasis region and has the responsibility to manage projects, help the project owners, and archive the project channels in case the owner leaves or requests this action.
-- **The Minister of Design** is responsible for the official branding and management of all the official design-related activities in Developer Sanctuary.
-5. A Federal Minister has indefinite terms and upon resignment of a Federal Minister, candidates are nominated by the Head of State or a PM and voted in by the people through a public vote with a 2/3 majority. 
+- **The Minister of Design** is responsible for the official branding and management of all the official design-related activities in Developer Sanctuary. 
 
 --- 
 
