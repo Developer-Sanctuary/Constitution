@@ -212,4 +212,72 @@ The political system of governance which defines members of the body that make u
 
 4. Anyone can vote including officials in the Government if multiple options are not voted unless specified otherwise.
 
+--- 
 
+## Article V
+
+##### Section I: Political Parties & Participation in Elections
+
+1. Political parties are allowed to be formed and run-in multi-party elections for Head of State.
+
+2. Only one member of a political party can run for Head of State representing that party.
+
+3. The candidate running to get elected as the Head of State shall be in the server for at least 30 days and must have a message count of 250 or more.
+
+4. Parties can also merge into coalitions however only a single member representing the coalition may run for Head of State.
+
+5. A committee will be established for parties that have been accused of threatening national security. It will consist of the Supreme Judges, Minister of Justice, and Head of State.
+
+6. If any tangible evidence of threatening of national security is found (explained in Article VI of this document), then the party will be disbanded after 2 out of 3 Supreme Judges decide in favour of disbanding the party.
+
+##### Section II: Electoral System
+
+1. Elections must be free and fair and should take place on the 17th, unless stated otherwise in certain scenarios specified in other sections of this document.
+
+2. Elections can be conducted in any method if there is an independent observer to ensure no election interference from the government in power or any voters.
+
+3. Election interference can include voting multiple times, ballot stuffing, deleting votes, changing votes, voting with alternative accounts, and pressurising individuals.
+
+4. Anyone can vote barring members who joined within election day.
+
+5. All reports of election tampering must be submitted to a Supreme Judge to decide whether it constitutes a violation, and a re-election must take place following the procedures detailed in Article VI of this document.
+
+6. Coalitions with merged votes are ineligible during elections.
+
+##### Section III: Preparation of Election
+
+1. The preparation of for the election must begin on the 5th of second month of the term with party registration and a channel for candidates to kick off their campaigns.
+
+2. Party registration must be opened for at least two days and no other party can register after the deadline. A registered party can drop out of election on their own will.
+
+3. A special channel must be opened on the 15th for the public to discuss the election and other related topics.
+
+---
+
+## Article VI
+
+##### Section I: Impeachment
+
+1. Under the event of a constitutional violation, an impeachment request can be submitted to any Court to determine whether a violation has taken place.
+
+2. If a violation has taken place, the official under impeachment must be revoked of all powers. The approval of at least 2 Supreme Judges is required to pass this judgement.
+
+3. Furthermore, if the person under impeachment is the Head of State, an independent electoral committee must be appointed by the Supreme Judges to conduct elections within 10 days to ensure the stability of the server.
+
+4. The Head of State, under impeachment is barred from running in the election but may run for subsequent ones in the future.
+
+5. Threatening the National Security includes anything that threatens the sovereignty of Developer Sanctuary.
+
+6. Such as raids on Developer Sanctuary, foreign or internal conspiracies to undemocratically overthrow the Government. Causing disturbance in the server either by spamming or provoking many members, threatening government officials.
+
+7. In case of a government official, leaking of internal plans to the enemies of Developer Sanctuary, clear intention to harm the server such as bulk deletion of channels, severe violation of NSR, pruning members, undemocratically silencing many members to cause disturbance etc.
+
+8. If a citizen, organisation, or a government official is accused of threatening the National Security, the individual or the head of that organisation is tried in Court.
+
+9. If a violation has taken place, the official will be stripped out of powers and in worst cases, will get exiled. In case of an organisation, the head of that organisation will get punished and the organisation will be banned.
+
+---
+
+## Amendments
+
+##### 
