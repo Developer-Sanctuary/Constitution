@@ -133,7 +133,7 @@ The political system of governance which defines members of the body that make u
 
 2. The Ministers have the right to vote, speak and argue in the Parliament like any other Member of Parliament.
 
-3. A Federal Minister has indefinite terms, and upon the resignation or the removal of a minister, candidates are nominated by the Prime Minister and elected by a public vote with a 2/3 majority.
+3. A Federal Minister has indefinite terms, and upon the resignation or the removal of a minister, the prime minister has to appoint a new minister to fill the position.
 
 4. Following are the responsibilities of the Federal Minsters:
 * **The Minister of Justice** has the responsibility of maintaining the National System of Rules (NSR) and enforcing it. If a member breaks any rule(s), the minister of justice must take an action against the individual.
