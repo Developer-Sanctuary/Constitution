@@ -24,7 +24,7 @@ All past revisions to the Constitution will be included into future versions of 
 
 ##### Section II: Rights of Individuals
 
-3. All citizens, residents, expats, entities, and people within Developer Sanctuary have the right to equally access to all services without regard to color, ancestry, culture, age, ethnicity, species, gender identity or expression,nationality, race, religions, sex, sexual orientation, genetic information,marital status, medical conditions, physical or mental disability, minoritystatus, political affiliation, and criminal background. Discrimination based onthese grounds constitutes a violation.
+3. All citizens, residents, expats, entities, and people within Developer Sanctuary have the right to equally access to all services without regard to color, ancestry, culture, age, ethnicity, species, gender identity or expression,nationality, race, religions, sex, sexual orientation, genetic information, marital status, medical conditions, physical or mental disability, minority status, political affiliation, and criminal background. Discrimination based on these grounds constitutes a violation.
 
 4. Freedom of assembly, association, speech, inclusiveness, equality,citizenship, consent of governed, voting rights, liberty, minority rights,right to life, movement, expression, information, thought, religion, rights toprivacy and independent media are all constitutionally guaranteed rights toevery individual within Developer Sanctuary without retaliation or censorshipto the extent that the freedom does not affect other’s rights to exercisetheir own freedoms, harm others or harm national security.
 
