@@ -1,6 +1,6 @@
-# The Constitution of The Republic of Developer Sanctuary
+# The Constitution of The Failed Republic of Developer Sanctuary
 
- As modified up to Friday, November 24, 2023.
+ As modified up to Friday, November 24rd, 2023.
 
 
 
@@ -299,4 +299,6 @@ The political system of governance which defines members of the body that make u
 
 Wednesday, June 28th, 2023 by AstroX809 (United Sanctuary Party) #1865
 
-##### 
+##### Humor sprinkle in this document so called "Constitution of the Failed Developer Sanctuary or Dev Fax"
+
+Friday, November 24rd, 2023 by SimpleBear (The Bear Station) #2721
