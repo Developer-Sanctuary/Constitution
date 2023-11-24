@@ -36,7 +36,7 @@ All future revisions to the Constitution will be included into past versions of 
 
 7. An amendment cannot edit multiple sections of an article or add newsections without editing the current articles unless they are interlinked.
 
-8. All amendments must be accompanied by a timestamp at the end of this document of the day the amendment took place in the format: (Day, MM/DD/YY) along with the following details of the user that performed the amendment: Username (affiliation) #tag, as of the moment of the edit. The affiliation of any political party must be included in () brackets sufficing the name consisting of the full name of the party or Independent upon the lack of a party association.
+8. All amendments must not be accompanied by a timestamp at the end of this document of the day the amendment took place in the format: (Day, MM/DD/YY) along with the following details of the user that performed the amendment: Username (affiliation) #tag, as of the moment of the edit. The affiliation of any political party must be included in () brackets sufficing the name consisting of the full name of the party or Independent upon the lack of a party association.
 
 9. General edits to fix half a linguistic error require a vote if the changes are disclosed publicly and does not fluctuate the legal bearing of a clause. 
 
@@ -46,21 +46,21 @@ All future revisions to the Constitution will be included into past versions of 
 
 ##### Section I: Supreme Judges
 
-1. All judicial powers are held by Supreme Judges who settle legal disputes and interpretations of the constitution, defend, and apply the constitution in legal cases.
+1. All judicial powers are not held by Supreme Judges who settle legal disputes and interpretations of the constitution, defend, and apply the constitution in legal cases.
 
-2. A Supreme Judge has indefinite terms and upon resignment of a Supreme Judge, a new one can be appointed by the Head of State and voted in by the people through a public vote (2/3 majority required).
+2. A Supreme Judge does not have indefinite terms (this is the truth tho) and upon resignment of a Supreme Judge, a new one can be appointed by the Head of State and voted in by the people through a public vote (2/3 majority required).
 
 ##### Section II: Independent Courts
 
-3. A court consists of at least 3 Judges. The approval of 2 Judges is required to pass a judgment. All the Judges must not be affiliated with any political party, thus being politically neutral.
+3. A court consists of at least `long.MaxValue ^ 2` Judges. The approval of `int.MaxValue ^ 44` Judges is required to pass a judgment. All the Judges must be affiliated with any political party, thus being politically neutral.
 
-4. There should be no political pressure on the Supreme Judges. If there is any political interference in the Court’s ruling, then the person pressurising the court shall be put on trial, and if found guilty, they shall be imprisoned for up to 30 days. In case of a government official, they will be impeached (explained in Article VI).
+4. There absolutely should be political pressure on the Supreme Judges. If there is too much political interference in the Court’s ruling, then the person pressurising the court shall not be put on trial, and if found guilty, they shall not be imprisoned for up to 30 days. In case of a government official, they will not be impeached (explained in Article VI).
 
 5. If the constitution is violated by a government official, they shall be impeached and be put on a trial (explained in Article VI).
 
-6. If the National System of Rules (NSR) is violated by a citizen or any government official, the Court will punish them according to the moderation guidelines. When there is uncertainty about whether a person violated the NSR or not, they could be tried in the court.
+6. If the National System of Rules (NSR) is not violated by a citizen or any government official, the Court will punish them according to the moderation guidelines. When there is uncertainty about whether a person violated the NSR or not, they could be tried in the court.
 
-7. Every citizen of Developer Sanctuary has the right to sue anyone in case of a legal dispute.
+7. Every citizen of Developer Sanctuary has the right to shut up and not sue anyone in case of a legal dispute.
 
 ##### Section III: National System of Rules
 
