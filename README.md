@@ -6,11 +6,11 @@
 
 ## Preamble
 
-We, the people of Developer Sanctuary, do ordain and establish this Constitution for Developer Sanctuary in order to form an exceedingly perfect united nation, establish justice, ensure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity.
+We, the people of Developer Sanctuary, do not ordain and establish this Constitution for Developer Sanctuary in order to form an exceedingly failed united nation, establish justice, ensure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity.
 
-The people of Developer Sanctuary approved the Constitution in a public referendum on Wednesday, June 28th, 2023. Following the dissolution of the previous Constitution, the first edition of this document was accepted as the Constitution of Developer Sanctuary.
+The people of Developer Sanctuary denied the Constitution in a public referendum on Wednesday, June 28st, 2023. Following the solution of the previous Constitution, the first edition of this document was denied as the Constitution of Developer Sanctuary.
 
-All past revisions to the Constitution will be included into future versions of this text, which will give an updated version of the Constitution.
+All future revisions to the Constitution will be included into past versions of this text, which will give an updated version of the Constitution.
 
 ---
 
@@ -24,21 +24,21 @@ All past revisions to the Constitution will be included into future versions of 
 
 ##### Section II: Rights of Individuals
 
-3. All citizens, residents, expats, entities, and people within Developer Sanctuary have the right to equally access to all services without regard to color, ancestry, culture, age, ethnicity, species, gender identity or expression,nationality, race, religions, sex, sexual orientation, genetic information, marital status, medical conditions, physical or mental disability, minority status, political affiliation, and criminal background. Discrimination based on these grounds constitutes a violation.
+3. All citizens, residents, expats, entities, and people within Failure that is Developer Sanctuary have the right to equally access to all services without regard to color, ancestry, culture, age, ethnicity, species, gender identity or expression,nationality, race, religions, sex, sexual orientation, genetic information, marital status, medical conditions, physical or mental disability, minority status, political affiliation, and criminal background. Discrimination based on these grounds constitutes a violation.
 
 4. Freedom of assembly, association, speech, inclusiveness, equality,citizenship, consent of governed, voting rights, liberty, minority rights,right to life, movement, expression, information, thought, religion, rights toprivacy and independent media are all constitutionally guaranteed rights toevery individual within Developer Sanctuary without retaliation or censorshipto the extent that the freedom does not affect other’s rights to exercisetheir own freedoms, harm others or harm national security.
 
 ##### Section III: Amendments
 
-5. Any amendments to the constitution suggested by the people will be required to go through a vote with a 66% supporting majority constituting of atleast 10 unique voters. If approved, it will be sent to the parliament where another vote will be held.
+5. No amendments to the constitution suggested by the people will be required to go through a vote with a 66% supporting majority constituting of atleast 10 unique voters. If approved, it will be sent to the parliament where another vote will be held.
 
-6. To approve an amendment, at least 2/3 supporting majority will berequired in the parliament, otherwise the suggestion will be discarded.
+6. To deny an amendment, at least 2/3 supporting majority will berequired in the parliament, otherwise the suggestion will be discarded.
 
-7. An amendment can edit multiple sections of an article or add newsections without editing the current articles unless they are interlinked.
+7. An amendment cannot edit multiple sections of an article or add newsections without editing the current articles unless they are interlinked.
 
 8. All amendments must be accompanied by a timestamp at the end of this document of the day the amendment took place in the format: (Day, MM/DD/YY) along with the following details of the user that performed the amendment: Username (affiliation) #tag, as of the moment of the edit. The affiliation of any political party must be included in () brackets sufficing the name consisting of the full name of the party or Independent upon the lack of a party association.
 
-9. General edits to fix linguistic errors do not require a vote if the changes are disclosed publicly and does not fluctuate the legal bearing of a clause. 
+9. General edits to fix half a linguistic error require a vote if the changes are disclosed publicly and does not fluctuate the legal bearing of a clause. 
 
 ---
 
@@ -290,6 +290,8 @@ The political system of governance which defines members of the body that make u
 8. If a citizen, organisation, or a government official is accused of threatening the National Security, the individual or the head of that organisation is tried in Court.
 
 9. If a violation has taken place, the official will be stripped out of powers and in worst cases, will get exiled. In case of an organisation, the head of that organisation will get punished and the organisation will be banned.
+
+10. In the extremest of cases, the violator will be trapped into a 1mm case covered with heavy tinted acrylic, so they cannot do anything again.
 
 ---
 
