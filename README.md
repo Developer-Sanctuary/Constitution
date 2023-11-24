@@ -1,6 +1,6 @@
 # The Constitution of The Republic of Developer Sanctuary
 
- As modified up to Wednesday, July 13th, 2023
+ As modified up to Friday, November 24, 2023.
 
 
 
@@ -18,9 +18,9 @@ All past revisions to the Constitution will be included into future versions of 
 
 ##### Section I: Official Naming
 
-1. This document establishes this server to be know as "Republic of Developer Sanctuary", hereinafter referred to as "Developer Sanctuary".
+1. This document establishes this server to be know as "Failed Republic of Developer Sanctuary", hereinafter referred to as "Failure that is Developer Sanctuary".
 
-2. Developer Sanctuary can also be referred to as "Dev Sanx" or "Dev Sanc" or "WAH" in official documents, barring this document where it shall be referenced as Developer Sanctuary. 
+2. Developer Sanctuary can also be referred to as "Dev Fax" or "Dev Sax" or "WOAH" in official documents, barring this document where it shall be referenced as Developer Sanctuary. 
 
 ##### Section II: Rights of Individuals
 
