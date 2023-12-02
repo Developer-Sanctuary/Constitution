@@ -1,4 +1,4 @@
-# The Constitution of The Republica of Developer Sanctuary
+# The Constitution of The Republic of Developer Sanctuary
 
  As modified up to Wednesday, July 13th, 2023
 
