@@ -24,9 +24,9 @@ All past revisions to the Constitution will be included into future versions of 
 
 ##### Section II: Rights of Individuals
 
-3. All citizens, residents, expats, entities, and people within Developer Sanctuary have the right to equally access to all services without regard to color, ancestry, culture, age, ethnicity, species, gender identity or expression,nationality, race, religions, sex, sexual orientation, genetic information, marital status, medical conditions, physical or mental disability, minority status, political affiliation, and criminal background. Discrimination based on these grounds constitutes a violation.
+3. All citizens, residents, expats, entities, and people within Developer Sanctuary have the right to equally access to all services without regard to color, ancestry, culture, age, ethnicity, species, gender identity or expression, nationality, race, religions, sex, sexual orientation, genetic information, marital status, medical conditions, physical or mental disability, minority status, political affiliation, and criminal background. Discrimination based on these grounds constitutes a violation.
 
-4. Freedom of assembly, association, speech, inclusiveness, equality,citizenship, consent of governed, voting rights, liberty, minority rights,right to life, movement, expression, information, thought, religion, rights toprivacy and independent media are all constitutionally guaranteed rights toevery individual within Developer Sanctuary without retaliation or censorshipto the extent that the freedom does not affect other’s rights to exercisetheir own freedoms, harm others or harm national security.
+4. Freedom of assembly, association, speech, inclusiveness, equality,citizenship, consent of governed, voting rights, liberty, minority rights, right to life, movement, expression, information, thought, religion, rights toprivacy and independent media are all constitutionally guaranteed rights toevery individual within Developer Sanctuary without retaliation or censorshipto the extent that the freedom does not affect other’s rights to exercisetheir own freedoms, harm others or harm national security.
 
 ##### Section III: Amendments
 
@@ -73,17 +73,17 @@ All past revisions to the Constitution will be included into future versions of 
 11. Deletion of a project channel without the consent of the project owner, even if they have left the server, is illegal and can lead to permanent suspension, imprisonment or impeachment of the Minister of Development or the responsible government official.
 
 12. Deletion of "protected" channels and roles is considered to be a serious offence and can lead to impeachment if it is carried out by a government official.
-* The channels include all server logging channels, the general chat and #meta channels.
+     * The channels include all server logging channels, the general chat and #meta channels.
 
-* The roles include some historic roles (such as the E role, "THANOS" and "RAGE") and the "Supreme Judges" role.
+     * The roles include some historic roles (such as the E role, "THANOS" and "RAGE") and the "Supreme Judges" role.
 
-* Creating roles that are intended to closely resemble the original is not allowed.
+     * Creating roles that are intended to closely resemble the original is not allowed.
 
-* Channels and roles can be added or removed to this list via future amendments.
+     * Channels and roles can be added or removed to this list via future amendments.
 
-* Protected roles shall not be freely obtainable by the public and must only be given by the government, judiciary or FireCube#4142 on a case-bycase basis. If a protected role is found to have been given out undeservingly, the responsible members may receive a punishment decided by the judiciary.
+     * Protected roles shall not be freely obtainable by the public and must only be given by the government, judiciary or FireCube#4142 on a case-bycase basis. If a protected role is found to have been given out undeservingly, the responsible members may receive a punishment decided by the judiciary.
 
-* Protected parts of the server may be modified if a Supreme Judge determines that the modification does not significantly alter its functionality and does not compromise its recognizability.
+     * Protected parts of the server may be modified if a Supreme Judge determines that the modification does not significantly alter its functionality and does not compromise its recognizability.
 
 --- 
 
@@ -109,52 +109,52 @@ The political system of governance which defines members of the body that make u
 
 ##### Section III: The Vice President
 
-1. The Vice President performs the job of the Head of State in case of absence or resignation of the acting President. In case of dismissal of the President, the Vice President is allowed to act as the Head of State until early elections are held.
+7. The Vice President performs the job of the Head of State in case of absence or resignation of the acting President. In case of dismissal of the President, the Vice President is allowed to act as the Head of State until early elections are held.
 
 ##### Section IV: The Prime Minister
 
-1. The Prime Minister is the Chief Executive of the Country and has some executive powers. The PM is the principal government figure in the Parliament.
+8. The Prime Minister is the Chief Executive of the Country and has some executive powers. The PM is the principal government figure in the Parliament.
 
-2. These powers include: Responsibility to implement policy initiatives either voted directly by the populace or the parliament, management of channels and districts, enforcement of law, overseeing the operation of ministries, appointment of ministers and determining their responsibilities.
+9. These powers include: Responsibility to implement policy initiatives either voted directly by the populace or the parliament, management of channels and districts, enforcement of law, overseeing the operation of ministries, appointment of ministers and determining their responsibilities.
 
-3. The PM has the authority to decide whether and when to declare a State of Emergency or not.
+10. The PM has the authority to decide whether and when to declare a State of Emergency or not.
 
-4. The PM is considered to be the head of all ministers and is responsible for all the decisions and policies of the government.
+11. The PM is considered to be the head of all ministers and is responsible for all the decisions and policies of the government.
 
-5. The PM shall serve for exactly 3 months (the time period between the 17th and 17th of 3 Gregorian Calendar months).
+12. The PM shall serve for exactly 3 months (the time period between the 17th and 17th of 3 Gregorian Calendar months).
 
-6. The PM is appointed via a parliamentary vote, in which candidates are nominated by the elected parties in the parliament. At least 9 out of 16 votes are required to appoint a candidate as the Prime Minister.
+13. The PM is appointed via a parliamentary vote, in which candidates are nominated by the elected parties in the parliament. At least 9 out of 16 votes are required to appoint a candidate as the Prime Minister.
 
-7. The candidates are nominated by the elected parties in the parliament. Nominees don’t necessarily have to be members of parliament.
+14. The candidates are nominated by the elected parties in the parliament. Nominees don’t necessarily have to be members of parliament.
 
 ##### Section V: The Federal Ministers
 
-1. The Federal Ministers are entitled to do the tasks appointed to them.
+15. The Federal Ministers are entitled to do the tasks appointed to them.
 
-2. The Ministers have the right to vote, speak and argue in the Parliament like any other Member of Parliament.
+16. The Ministers have the right to vote, speak and argue in the Parliament like any other Member of Parliament.
 
-3. A Federal Minister has indefinite terms, and upon the resignation or the removal of a minister, the prime minister has to appoint a new minister to fill the position.
+17. A Federal Minister has indefinite terms, and upon the resignation or the removal of a minister, the prime minister has to appoint a new minister to fill the position.
 
-4. Following are the responsibilities of the Federal Minsters:
-* **The Minister of Justice** has the responsibility of maintaining the National System of Rules (NSR) and enforcing it. If a member breaks any rule(s), the minister of justice must take an action against the individual.
+18. Following are the responsibilities of the Federal Minsters:
+     * **The Minister of Justice** has the responsibility of maintaining the National System of Rules (NSR) and enforcing it. If a member breaks any rule(s), the minister of justice must take an action against the individual.
 
-* **The Minister of Interior** has the responsibility of keeping the "General Square" and the "Community" regions clean and welcoming, holding events that interest the public, informing the public through announcements, managing the system of "Direct Democracy", and assuming the duties of the PM in their absence.
+     * **The Minister of Interior** has the responsibility of keeping the "General Square" and the "Community" regions clean and welcoming, holding events that interest the public, informing the public through announcements, managing the system of "Direct Democracy", and assuming the duties of the PM in their absence.
 
-* **The Minister of Development** has full control over the "Developers" region and has the responsibility of managing projects, helping the project owners, and archiving a project channel in case the owner leaves or requests this action.
+     * **The Minister of Development** has full control over the "Developers" region and has the responsibility of managing projects, helping the project owners, and archiving a project channel in case the owner leaves or requests this action.
 
-* **The Minister of Economy** has the responsibility of managing the server's Social Media Accounts (Such as: Twitter, YT, Subreddit, etc.), monitoring the growth of the server, launching Social Media campaigns to increase the growth of the server, as well as boosting engagement to apps and projects in the server.
+     * **The Minister of Economy** has the responsibility of managing the server's Social Media Accounts (Such as: Twitter, YT, Subreddit, etc.), monitoring the growth of the server, launching Social Media campaigns to increase the growth of the server, as well as boosting engagement to apps and projects in the server.
 
 ##### Section VI: Election Inspection Committee (EIC)
 
-1. The Election Inspection Committee (EIC), a body independent of the government, is in charge of examining general elections to ensure the validity of the results.
+19. The Election Inspection Committee (EIC), a body independent of the government, is in charge of examining general elections to ensure the validity of the results.
 
-2. The committee is tasked with finding any tactics that might have been used by candidates to manipulate the public vote like: propaganda, compulsion, and manipulating the public opinion by controlling the media.
+20. The committee is tasked with finding any tactics that might have been used by candidates to manipulate the public vote like: propaganda, compulsion, and manipulating the public opinion by controlling the media.
 
-3. The committee consists of 4 Members. The members of the committee must be appointed by the Supreme Judges.
+21. The committee consists of 4 Members. The members of the committee must be appointed by the Supreme Judges.
 
-4. The members of the committee must not be affiliated with any political party, thus being politically neutral. 
+22. The members of the committee must not be affiliated with any political party, thus being politically neutral. 
 
-5. In the case of tangible evidence of the use of manipulative tactics, the supreme judges will evaluate the evidence and determine whether or not to disqualify the candidate and restart the election.
+23. In the case of tangible evidence of the use of manipulative tactics, the supreme judges will evaluate the evidence and determine whether or not to disqualify the candidate and restart the election.
 
 --- 
 
@@ -171,59 +171,59 @@ The political system of governance which defines members of the body that make u
 
 ##### Section II: The Speaker of the Parliament
 
-1. The Speaker of Parliament has full control over the parliament. Even though it is appointed by the ruling party, it must remain neutral.
+7. The Speaker of Parliament has full control over the parliament. Even though it is appointed by the ruling party, it must remain neutral.
 
-2. The Speaker of the Parliament can hold sessions, dismiss sessions, block a ruling for up to 7 days, moderate the channel, oversee the voting procedure, and can only vote if the number of votes are equally divided.
+8. The Speaker of the Parliament can hold sessions, dismiss sessions, block a ruling for up to 7 days, moderate the channel, oversee the voting procedure, and can only vote if the number of votes are equally divided.
 
-3. A ruling made by the Speaker of the Parliament cannot be overruled or reversed by the Supreme Judges or the Court.
+9. A ruling made by the Speaker of the Parliament cannot be overruled or reversed by the Supreme Judges or the Court.
 
 ##### Section III: The Members of the Parliament
 
-1. The Members of the Parliament (or MoP in short) have the legislative powers.
+10. The Members of the Parliament (or MoP in short) have the legislative powers.
 
-2. These powers include: Suggesting amendments to the Constitution, arguing about the future or current problems faced by Developer Sanctuary, withdrawing confidence from the President, Prime Minister or the Speaker of the Parliament and approving the suggestions by the people.
+11. These powers include: Suggesting amendments to the Constitution, arguing about the future or current problems faced by Developer Sanctuary, withdrawing confidence from the President, Prime Minister or the Speaker of the Parliament and approving the suggestions by the people.
 
-3. To pass a suggestion, amendment, or a bill, at least two-thirds (2/3) majority of supporting votes are required to pass it to the executive body where the Head of State makes the final decision
+12. To pass a suggestion, amendment, or a bill, at least two-thirds (2/3) majority of supporting votes are required to pass it to the executive body where the Head of State makes the final decision
 
-4. To block a suggestion by the public, 2/3 majority of votes are required against it. Otherwise, the suggestion will be approved and get implemented.
+13. To block a suggestion by the public, 2/3 majority of votes are required against it. Otherwise, the suggestion will be approved and get implemented.
 
 ##### Section IV: No Confidence Motion
 
-1. A motion of no confidence is a statement or vote about whether a person in a position of President, PM or the Speaker of Parliament is still deemed fit to hold that position.
+14. A motion of no confidence is a statement or vote about whether a person in a position of President, PM or the Speaker of Parliament is still deemed fit to hold that position.
 
-2. To submit a request for a no confidence vote, the Parliament must pass it with 2/3 majority. If the bill is passed, then the Speaker of the Parliament must hold a parliamentary vote with-in the next 7 days.
+15. To submit a request for a no confidence vote, the Parliament must pass it with 2/3 majority. If the bill is passed, then the Speaker of the Parliament must hold a parliamentary vote with-in the next 7 days.
 
-3. To oust an official out of power, 10 votes out of 16 are required. After that, one candidate will be nominated by both the government and the opposition for the position of the ousted official.
+16. To oust an official out of power, 10 votes out of 16 are required. After that, one candidate will be nominated by both the government and the opposition for the position of the ousted official.
 
-4. A parliamentary vote will then be conducted by the Speaker after which the elected candidate will hold the position which was previously held by the ousted official.
+17. A parliamentary vote will then be conducted by the Speaker after which the elected candidate will hold the position which was previously held by the ousted official.
 
-5. If the President is ousted, then the Vice President will take control until the next President is elected through a parliamentary vote.
+18. If the President is ousted, then the Vice President will take control until the next President is elected through a parliamentary vote.
 
 ##### Section V: Dissolution of the Parliament
 
-1. If the ruling party has a majority in the Parliament, then the PM can request the Head of State to dissolve the Parliament and call for an early election within 7 days.
+19. If the ruling party has a majority in the Parliament, then the PM can request the Head of State to dissolve the Parliament and call for an early election within 7 days.
 
-2. An interim government will be set up for the interval of 7 days to prepare for an election, it will consist of the Head of State and the former PM.
+20. An interim government will be set up for the interval of 7 days to prepare for an election, it will consist of the Head of State and the former PM.
 
 ##### Section VI: Direct Democracy
 
-1. The legislative powers are also shared with the populace of Developer Sanctuary, thanks to Direct Democracy.
+21. The legislative powers are also shared with the populace of Developer Sanctuary, thanks to Direct Democracy.
 
-2. Direct democracy ensures that anyone has the right to suggest and vote on policy initiatives through the official “suggestions” system, to the extent that the individual does not abuse the system, in which they can be barred upon using it.
+22. Direct democracy ensures that anyone has the right to suggest and vote on policy initiatives through the official “suggestions” system, to the extent that the individual does not abuse the system, in which they can be barred upon using it.
 
-3. All policy initiatives are first sent to the Parliament where a vote is held as explained in Section III (d) of this Article. This is done to prevent the policies which are either not implementable or violate the Constitution.
+23. All policy initiatives are first sent to the Parliament where a vote is held as explained in Section III (d) of this Article. This is done to prevent the policies which are either not implementable or violate the Constitution.
 
-4. After that it is sent to the public voting. If approved by the public, the President shall have to approve or deny that policy and if approved by the President, the PM has the responsibility to either implement it or request a Federal Minister to implement it.
+24. After that it is sent to the public voting. If approved by the public, the President shall have to approve or deny that policy and if approved by the President, the PM has the responsibility to either implement it or request a Federal Minister to implement it.
 
 ##### Section VII: Voting System
 
-1. A vote is a method for a decision to be implemented or not. It is conducted through the Direct Democracy Policy Initiative System or public announcement channel.
+25. A vote is a method for a decision to be implemented or not. It is conducted through the Direct Democracy Policy Initiative System or public announcement channel.
 
-2. All votes must not be tampered by the government or any voters. All voting interference should be reported to Supreme Judges to determine whether it constitutes a violation and to conduct procedures detailed in Article VI of this document.
+26. All votes must not be tampered by the government or any voters. All voting interference should be reported to Supreme Judges to determine whether it constitutes a violation and to conduct procedures detailed in Article VI of this document.
 
-3. Voters must have either an option to decide on implementation, or multiple options with at least one option to not choose from any of the options.
+27. Voters must have either an option to decide on implementation, or multiple options with at least one option to not choose from any of the options.
 
-4. Anyone can vote including officials in the Government if multiple options are not voted unless specified otherwise.
+28. Anyone can vote including officials in the Government if multiple options are not voted unless specified otherwise.
 
 --- 
 
@@ -245,27 +245,27 @@ The political system of governance which defines members of the body that make u
 
 ##### Section II: Electoral System
 
-1. Elections must be free and fair and should take place on the 17th, unless stated otherwise in certain scenarios specified in other sections of this document.
+7. Elections must be free and fair and should take place on the 17th, unless stated otherwise in certain scenarios specified in other sections of this document.
 
-2. Elections can be conducted in any method if there is an independent observer (Go to Article III Section VI) to ensure no election interference from the government in power or any voters.
+8. Elections can be conducted in any method if there is an independent observer (Go to Article III Section VI) to ensure no election interference from the government in power or any voters.
 
-3. Election interference can include voting multiple times, ballot stuffing, deleting votes, changing votes, voting with alternative accounts, and pressurising individuals.
+9. Election interference can include voting multiple times, ballot stuffing, deleting votes, changing votes, voting with alternative accounts, and pressurising individuals.
 
-4. Anyone can vote barring members who joined within election day.
+10. Anyone can vote barring members who joined within election day.
 
-5. All reports of election tampering must be submitted to a Supreme Judge to decide whether it constitutes a violation, and a re-election must take place following the procedures detailed in Article VI of this document.
+11. All reports of election tampering must be submitted to a Supreme Judge to decide whether it constitutes a violation, and a re-election must take place following the procedures detailed in Article VI of this document.
 
-6. Coalitions with merged votes are ineligible during elections.
+12. Coalitions with merged votes are ineligible during elections.
 
 ##### Section III: Preparation of Election
 
-1. The preparation of for the election must begin on the 5th of third month of the term with party registration and a channel for candidates to kick off their campaigns.
+13. The preparation of for the election must begin on the 5th of third month of the term with party registration and a channel for candidates to kick off their campaigns.
 
-2. Party registration must be opened for at least two days and no other party can register after the deadline. A registered party can drop out of election on their own will.
+14. Party registration must be opened for at least two days and no other party can register after the deadline. A registered party can drop out of election on their own will.
 
-3. A special channel must be opened on the 15th for the public to discuss the election and other related topics.
+15. A special channel must be opened on the 15th for the public to discuss the election and other related topics.
 
-4. The Election Inspection Committee (EIC) must be formed on the 7th of the third month of the term (Go to Article III Section VI).
+16. The Election Inspection Committee (EIC) must be formed on the 7th of the third month of the term (Go to Article III Section VI).
 
 ---
 
