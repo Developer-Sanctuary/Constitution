@@ -291,6 +291,8 @@ The political system of governance which defines members of the body that make u
 
 9. If a violation has taken place, the official will be stripped out of powers and in worst cases, will get exiled. In case of an organisation, the head of that organisation will get punished and the organisation will be banned.
 
+10. If the ruling Server Owner is not the Head of State or FireCube#4142 and power abuse was done, ownership shall be returned to FireCube#4142 or the Head of State if a referendum is done, and the Server Owner removed from his/her powers then after that the Server Owner get exiled and banned.
+
 ---
 
 ## Amendments
@@ -299,4 +301,6 @@ The political system of governance which defines members of the body that make u
 
 Wednesday, June 28th, 2023 by AstroX809 (United Sanctuary Party) #1865
 
-##### 
+##### Prevention of Server Owner abuse in the case it's not FireCube or the Head of State
+
+Saturday, December 2, 2023 by SimpleBear (Apolitical) #2721
