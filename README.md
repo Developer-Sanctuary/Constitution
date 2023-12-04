@@ -40,6 +40,20 @@ All past revisions to the Constitution will be included into future versions of 
 
 9. General edits to fix linguistic errors do not require a vote if the changes are disclosed publicly and does not fluctuate the legal bearing of a clause. 
 
+##### Section IV: Ownership of the Server
+
+10. The role of the "Server Owner" can be held by anyone as long as the
+individual is FireCube#4142 or the elected Head of State.
+
+11. If a vote by the elected Head of State for requesting server owner surpasses
+2/3 majority in the Parliament and 60% of votes in a public poll, then the
+ownership gets passed to the Head of State.
+
+12. If the Head of State is not participating in the next election or is willing to
+retire, the ownership shall get passed to FireCube#4142 again.
+
+13. The server owner must comply with all National System of Rules (NSR).
+
 ---
 
 ## Article II
