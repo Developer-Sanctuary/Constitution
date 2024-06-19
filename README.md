@@ -118,7 +118,7 @@ The political system of governance which defines members of the body that make u
   
 3. The Head of State can give executive orders, without requiring any input by the legislature to take effect.
   
-4. The President shall serve for exactly 3 months (the time period between the 17th and 17th of 3 Gregorian Calendar months). During the State of Emergency, the term can be extended for an additional 21 days, but it cannot be extended permanently.
+4. The President shall serve for exactly 2 months (the time period between the 17th and 17th of 2 Gregorian Calendar months). During the State of Emergency, the term can be extended for an additional 21 days, but it cannot be extended permanently.
   
 5. The Parliament can vote for further extending the term for 7 days during the State of Emergency, at least 3/4 supporting majority would be required in that case.
   
