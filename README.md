@@ -32,7 +32,7 @@ All past revisions to the Constitution will be included into future versions of 
 
 5. Any amendments to the constitution suggested by the people will be required to go through a vote with a 66% supporting majority constituting of atleast 10 unique voters. If approved, it will be sent to the parliament where another vote will be held.
   
-6. To approve an amendment, at least 2/3 supporting majority will berequired in the parliament, otherwise the suggestion will be discarded.
+6. To approve an amendment, at least 2/3 supporting majority will be required in the parliament, otherwise the suggestion will be discarded.
   
 7. An amendment can edit multiple sections of an article or add newsections without editing the current articles unless they are interlinked.
   
