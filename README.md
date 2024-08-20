@@ -1,12 +1,12 @@
 # The Constitution of The Republic of Developer Sanctuary
 
-As modified up to Thursday, June 6th, 2024
+As modified up to Tuesday, August 20th, 2024
 
 ## Preamble
 
 We, the people of Developer Sanctuary, do ordain and establish this Constitution for Developer Sanctuary in order to form an exceedingly perfect united nation, establish justice, ensure domestic tranquility, provide for the common defense, promote the general welfare, and secure the blessings of liberty to ourselves and our posterity.
 
-The people of Developer Sanctuary approved the Constitution in a public referendum on Thursday, June 6th, 2024. Following the dissolution of the previous Constitution, the first edition of this document was accepted as the Constitution of Developer Sanctuary.
+The people of Developer Sanctuary approved the Constitution in a public referendum on Thursday, June 6th, 2024. The Constitution was amended for text-proofing fixes on Tuesday, August 20th, 2024. Following the dissolution of the previous Constitution, the first edition of this document was accepted as the Constitution of Developer Sanctuary.
 
 All past revisions to the Constitution will be included into future versions of this text, which will give an updated version of the Constitution.
 
@@ -34,7 +34,7 @@ All past revisions to the Constitution will be included into future versions of 
   
 6. To approve an amendment, at least 2/3 supporting majority will be required in the parliament, otherwise the suggestion will be discarded.
   
-7. An amendment can edit multiple sections of an article or add newsections without editing the current articles unless they are interlinked.
+7. An amendment can edit multiple sections of an article or add new sections without editing the current articles unless they are interlinked.
   
 8. All amendments must be accompanied by a timestamp at the end of this document of the day the amendment took place in the format: (Day, MM/DD/YY) along with the following details of the user that performed the amendment: Username (affiliation) #tag, as of the moment of the edit. The affiliation of any political party must be included in () brackets sufficing the name consisting of the full name of the party or Independent upon the lack of a party association.
   
@@ -43,13 +43,13 @@ All past revisions to the Constitution will be included into future versions of 
 
 ##### Section IV: Ownership of the Server
 
-10. The role of the "Server Owner" can be held by anyone as long as theindividual is @firecubestudios or the elected Head of State.
+10. The role of the "Server Owner" can be held by anyone as long as the individual is @firecubestudios or the elected Head of State.
   
-11. If a vote by the elected Head of State for requesting server owner surpasses2/3 majority in the Parliament and 60% of votes in a public poll, then theownership gets passed to the Head of State.
+11. If a vote by the elected Head of State for requesting server owner surpasses 2/3 majority in the Parliament and 60% of votes in a public poll, then the ownership gets passed to the Head of State.
   
 12. If the Head of State is not participating in the next election or is willing toretire, the ownership shall get passed to @firecubestudios again.
   
-13. The server owner must comply with all National System of Rules (NSR).
+13. The server owner must comply with all of the regulations comprised in the National System of Rules (NSR).
   
 
 * * *
@@ -58,7 +58,7 @@ All past revisions to the Constitution will be included into future versions of 
 
 ##### Section I: Supreme Judges
 
-1. Moderators are the equivilant of Supreme Judges, and they hold all judicial powers to settle legal disputes and interpretations of the constitution, defend, and apply the constitution in legal cases.
+1. Moderators are the equivalent of Supreme Judges, and they hold all judicial powers to settle legal disputes and interpretations of the constitution, defend, and apply the constitution in legal cases.
   
 2. A Supreme Judge has indefinite terms and upon resignment of a Supreme Judge, a new one can be appointed by the Head of State and voted in by the people through a public vote (2/3 majority required).
   
@@ -97,7 +97,7 @@ All past revisions to the Constitution will be included into future versions of 
   
 * Channels and roles can be added or removed to this list via future amendments.
   
-* Protected roles shall not be freely obtainable by the public and must only be given by the government, judiciary or FireCube#4142 on a case-bycase basis. If a protected role is found to have been given out undeservingly, the responsible members may receive a punishment decided by the judiciary.
+* Protected roles shall not be freely obtainable by the public and must only be given by the government, judiciary or @firecubestudios on a case-bycase basis. If a protected role is found to have been given out undeservingly, the responsible members may receive a punishment decided by the judiciary.
   
 * Protected parts of the server may be modified if a Supreme Judge determines that the modification does not significantly alter its functionality and does not compromise its recognizability.
   
@@ -125,19 +125,19 @@ The political system of governance which defines members of the body that make u
 6. The Head of State is allowed indefinite number of terms but can only run in a General Election two times in a row.
   
 
-##### Section III: The Adminstrator
+##### Section III: The Administrator
 
-1. The Admin is the equivilant of a Prime Minister, and is the Chief Executive of the Country and has some executive powers. The PM is the principal government figure in the Parliament.
+1. The Administrator is the equivalent of a Prime Minister, and is the Chief Executive of the Country and has some executive powers. The PM is the principal government figure in the Parliament.
   
 2. These powers include: Responsibility to implement policy initiatives either voted directly by the populace or the parliament, management of channels and districts, enforcement of law, overseeing the operation of ministries, appointment of ministers and determining their responsibilities.
   
-3. The Admin has the authority to decide whether and when to declare a State of Emergency or not.
+3. The Administrator has the authority to decide whether and when to declare a State of Emergency or not.
   
-4. The Admin is considered to be the head of all ministers and is responsible for all the decisions and policies of the government.
+4. The Administrator is considered to be the head of all ministers and is responsible for all the decisions and policies of the government.
   
-5. The Admin shall serve for exactly 2 months (the time period between the 17th and 17th of 2 Gregorian Calendar months).
+5. The Administrator shall serve for exactly 2 months (the time period between the 17th and 17th of 2 Gregorian Calendar months).
   
-6. The Admin is appointed via a parliamentary vote, in which candidates are nominated by the elected parties in the parliament. At least 9 out of 16 votes are required to appoint a candidate as the Prime Minister.
+6. The Administrator is appointed via a parliamentary vote, in which candidates are nominated by the elected parties in the parliament. At least 9 out of 16 votes are required to appoint a candidate as the Prime Minister.
   
 7. The candidates are nominated by the elected parties in the parliament. Nominees don’t necessarily have to be members of parliament.
   
@@ -294,17 +294,15 @@ The political system of governance which defines members of the body that make u
   
 4. The Head of State, under impeachment is barred from running in the election but may run for subsequent ones in the future.
   
-5. Threatening the National Security includes anything that threatens the sovereignty of Developer Sanctuary.
+5. Threatening the National Security includes anything that threatens the sovereignty of Developer Sanctuary, such as raids on Developer Sanctuary, foreign or internal conspiracies to undemocratically overthrow the Government. Causing disturbance in the server either by spamming or provoking many members, threatening government officials.
+
+6. In case of a government official, leaking of internal plans to the enemies of Developer Sanctuary, clear intention to harm the server such as bulk deletion of channels, severe violation of NSR, pruning members, undemocratically silencing many members to cause disturbance etc.
   
-6. Such as raids on Developer Sanctuary, foreign or internal conspiracies to undemocratically overthrow the Government. Causing disturbance in the server either by spamming or provoking many members, threatening government officials.
+7. If a citizen, organisation, or a government official is accused of threatening the National Security, the individual or the head of that organisation is tried in Court.
   
-7. In case of a government official, leaking of internal plans to the enemies of Developer Sanctuary, clear intention to harm the server such as bulk deletion of channels, severe violation of NSR, pruning members, undemocratically silencing many members to cause disturbance etc.
+8. If a violation has taken place, the official will be stripped out of powers and in worst cases, will get exiled. In case of an organisation, the head of that organisation will get punished and the organisation will be banned.
   
-8. If a citizen, organisation, or a government official is accused of threatening the National Security, the individual or the head of that organisation is tried in Court.
-  
-9. If a violation has taken place, the official will be stripped out of powers and in worst cases, will get exiled. In case of an organisation, the head of that organisation will get punished and the organisation will be banned.
-  
-10. If the ruling Server Owner is not the Head of State or FireCube#4142 and power abuse was done, ownership shall be returned to FireCube#4142 or the Head of State if a referendum is done, and the Server Owner removed from his/her powers then after that the Server Owner get exiled and banned.
+9. If the ruling Server Owner is not the Head of State or @firecubestudios and power abuse was done, ownership shall be returned to @firecubestudios or the Head of State if a referendum is done, and the Server Owner removed from his/her powers then after that the Server Owner get exiled and banned.
   
 
 * * *
@@ -322,3 +320,7 @@ Saturday, December 2, 2023 by SimpleBear (Apolitical)
 ##### Simplify the naming of Government Positions & the removal of EIC
 
 Thursday, June 6th, 2024 by @astrox809 (United Sanctuary Party)
+
+##### Minor spelling mistakes corrected
+
+Tuesday, August 20th, 2024 by @dlphin (Aquatic Democrats Party)
