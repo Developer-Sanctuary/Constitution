@@ -1,1 +1,0 @@
-10. If the ruling Server Owner is not the Head of State or FireCube#4142 and power abuse was done, ownership shall be returned to FireCube#4142 or the Head of State if a referendum is done, and the Server Owner removed from his/her powers then after that the Server Owner get exiled and banned.
